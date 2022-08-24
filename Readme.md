@@ -13,6 +13,9 @@ Started with writing HTML code, was able to reproduce the required structure.App
 
 ![image](./Ouput14.png)
 
+## Mobile View
+![mobile](./MobileScreenshot.png)
+
 ## Time taken to complete this project:
 3.5hrs
 
