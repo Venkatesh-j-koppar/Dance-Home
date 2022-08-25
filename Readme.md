@@ -17,7 +17,7 @@ Started with writing HTML code, was able to reproduce the required structure.App
 ![mobile](./MobileScreenshot.png)
 
 ## Time taken to complete this project:
-3.5hrs
+6.5 hrs
 
 ## Application Link
 https://dance-home.netlify.app/
